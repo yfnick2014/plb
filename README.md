@@ -4,8 +4,8 @@ notes for "Practical load balancing"
 ## Menu
 - 第1章 引言
 - 第2章 网站工作原理
-- 第3章 内容缓存：保持低负载
-- 第4章 基于DNS的负载均衡
+- [第3章 内容缓存：保持低负载](content/03.md)
+- [第4章 基于DNS的负载均衡](content/04.md)
 - 第5章 内容分发网络
 - 第6章 性能和可靠性计划
 - 第7章 负载均衡基础
